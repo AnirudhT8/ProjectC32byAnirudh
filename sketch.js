@@ -69,7 +69,7 @@ function draw(){
 
     noStroke();
     textSize(35);
-    fill("white");
+    fill("black");
     text("score "+score,width-300,50);
 }
 
