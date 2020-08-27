@@ -6,7 +6,7 @@ const Constraint = Matter.Constraint;
 var engine, world;
 var box1, box1;
 var bird, slingShot;
-var bg = "sprites/day.png";
+var bg = "sprites/day.jpg";
 var score = 0;
 var backgroundImg;
 
