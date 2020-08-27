@@ -34,7 +34,7 @@ function setup(){
 
 function draw(){
     if (backgroundImg)
-    background("sprites/day.jpg");
+    background("day.jpg");
    
     Engine.update(engine);
       
